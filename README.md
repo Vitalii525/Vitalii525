@@ -1,4 +1,4 @@
-<h1>👋 Hi, I'm Yurii</h1>
+<h1>👋 Hi, I'm Vitalii</h1>
 
 <p>I'm a Senior Full-Stack Engineer with extensive experience in web and software development. </p>
 <p>Over 8 years, I've worked on<b> a variety of remote jobs</b>, specializing in React, Node.js, TypeScript, and scalable system architecture.</p>
